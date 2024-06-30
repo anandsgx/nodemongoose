@@ -62,7 +62,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
                     .gitignore
                     
 # to run backend - 
-   # 1.  npm run start   // does not watch for changes
-#                    or
-   # 2.  nodemon server.ts  //  watches for changes (need to install nodemon globally to work)
+    1.  npm run start   // does not watch for changes
+                  or
+    2.  nodemon server.ts  //  watches for changes (need to install nodemon globally to work)
         
